@@ -1,7 +1,7 @@
 # Recursos
 
 1. Prototipado
-    a. Just in Mind
+	a. Just in Mind
     b. Balsamiq
     c. Ninja Mock
     d. Axure
